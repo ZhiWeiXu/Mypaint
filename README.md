@@ -18,6 +18,6 @@
       
       
 ###编译需求    
-    ![baidu](http://7xvp2a.com1.z0.glb.clouddn.com/%E5%9B%BE%E7%89%871.jpg )
-    ![baidu](http://7xvp2a.com1.z0.glb.clouddn.com/9%24WNXKPOQ~F%606TWF4~6JRN7.jpg )
+    ![baidu](http://7xvp2a.com1.z0.glb.clouddn.com/%E5%9B%BE%E7%89%871.jpg "andnrodi\pc")
+    ![baidu](http://7xvp2a.com1.z0.glb.clouddn.com/9%24WNXKPOQ~F%606TWF4~6JRN7.jpg "android端")
   
